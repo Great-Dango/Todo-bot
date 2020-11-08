@@ -1,0 +1,6 @@
+TODO bot
+bot can 3 action:
+    create item
+    delete item
+    show all item
+You need to install requirements.txt
